@@ -151,3 +151,23 @@
 - [x] solid-state drive
 - [ ] serial attached storage device
 - [ ] SCSI drive
+
+
+#### Q19. AI is about to update a software driver. What would be a wise thing to do first?
+
+- [ ] Remove the older driver.
+- [ ] save data and close programs.
+- [ ] Back up all files.
+- [ ] Sign out of the operating system.
+
+#### Q20. On a trackpad, what gesture commonly replaces "center mouse wheel" for things like scrolling through documents?
+- [ ] force click and drag
+- [ ] pinch outward
+- [ ] two-finger swipe
+- [ ] scroll with thumb insted
+
+#### Q21. Which service allows clients to work remotely and supplies the clients with an IP address on the same local area network as the office?
+- [ ] DNS
+- [ ] FTP
+- [ ] HTTP
+- [ ] VPN
